@@ -1,4 +1,4 @@
-## **otus_lesson1***
+## **otus_lesson1**
 
 # **Этап первый**
 
@@ -55,6 +55,7 @@ vagrant ssh
 
 Внутри виртуальной машину выполняем команду 
 ```
-uname -r
+[vagrant@node1 ~]$ uname -r
+5.5.6-2.el7.elrepo.x86_64
 ```
 

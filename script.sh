@@ -1,4 +1,5 @@
 #!/bin/bash
+yum update
 uname -r
 yum install -y http://www.elrepo.org/elrepo-release-7.0-3.el7.elrepo.noarch.rpm
 yum --enablerepo elrepo-kernel install kernel-ml -y

@@ -1,4 +1,4 @@
-# *otus_lesson1
+## otus_lesson1
 
 # Этап первый
 
